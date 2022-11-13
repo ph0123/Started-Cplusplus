@@ -3,13 +3,13 @@
 // Console Interaction, by Eduardo Corpeño 
 
 #include <iostream>
-#include <string>
-
+#include <string.h>
 using namespace std;
-
-int main(){
-	string str;
-	cin >> str;
-	cout << str;
-	return(0);
+int main()
+{
+	cout<<"Please enter a string: "<<endl;
+	string a;
+	cin>>a;
+	cout<<"Your string is: "<<a<<endl;
+	return 0;
 }

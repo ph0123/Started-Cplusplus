@@ -19,8 +19,10 @@ int main(){
     cow my_cow;
     my_cow.age = 5;
     my_cow.name = "Betsy";
-    my_cow.purpose = dairy;
+    my_cow.purpose = meat;
+    //enum is stored as values from 0...
     cout << my_cow.name << " is a type-" << (int)my_cow.purpose << " cow." << endl;
+
     cout << my_cow.name << " is " << my_cow.age << " years old." << endl;
     return (0);
 }

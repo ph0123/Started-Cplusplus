@@ -40,6 +40,7 @@ int main(){
     cout << my_cow.get_name() << " is " << my_cow.get_age() << " years old." << endl;
     return (0);
 }
+// it is better to use private for attributes and using geter/setter to get/set values for the attribute.
 
 
 

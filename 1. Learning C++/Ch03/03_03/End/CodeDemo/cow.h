@@ -1,4 +1,4 @@
-#pragma once
+#pragma once //make include header one time, if other header files include it again.
 
 #ifndef COW_H
 #define COW_H
@@ -20,3 +20,12 @@ private:
 };
 
 #endif // COW_H
+
+//ifndef ... endif is realy good for debug or do another task.
+/*
+#define DEBURG false // this will make the block of codes inside #ifdef do not work and not compile.
+#ifndef DEBURG
+... the code here it is only work if Deburg== true
+#endif
+
+*/
