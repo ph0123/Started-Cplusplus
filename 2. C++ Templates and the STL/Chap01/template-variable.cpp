@@ -10,5 +10,6 @@ int main()
 {
     cout.precision(20);
     cout << pi<double> << endl;
+    cout << pi<int> << endl;
     return 0;
 }
