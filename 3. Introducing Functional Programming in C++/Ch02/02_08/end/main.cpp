@@ -5,7 +5,7 @@ using namespace std;
 
 auto incrementer = []() {
   auto increment = 0;
-  return [increment]() mutable {
+  return [increment]() mutable{ //mutable is important to modify increment variable 
     return increment++;
   };
 };

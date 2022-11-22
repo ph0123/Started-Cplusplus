@@ -1,10 +1,10 @@
 #include <iostream>
 using namespace std;
 
-auto continouosAdd = [](int initial, int addBy){
-  auto total = initial;
-  return [total, addBy]() mutable {
-    total += addBy;
+auto continouosAdd = [](auto a, auto b){
+  auto total = a;
+  return [total,b]() mutable{
+    total = total+b;
     return total;
   };
 };
