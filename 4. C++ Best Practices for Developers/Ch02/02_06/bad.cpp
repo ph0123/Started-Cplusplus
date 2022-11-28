@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
 
+//many errors in this files. use cppcheck to find out it.
 struct Cat {
   Cat() : name(""), color(""), age(0), weight(0) {}
   Cat(std::string n, std::string c, int a, int w) : name(std::move(n)), color(std::move(c)), age(a), weight(w) {}
