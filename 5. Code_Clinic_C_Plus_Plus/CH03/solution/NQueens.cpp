@@ -2,6 +2,7 @@
  * NQueens.cpp by Olivia Stone for Code Clinic: C++
  **/
 
+//target for recursion function.
 #include "NQueens.hpp"
 
 using namespace std;

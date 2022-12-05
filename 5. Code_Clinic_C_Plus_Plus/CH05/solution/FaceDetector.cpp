@@ -2,6 +2,8 @@
  * FaceDetector.cpp by Olivia Stone for Code Clinic: C++
  **/
 
+//using gif_lib and Cascades lib to read gif images and face detection.
+
 #include "FaceDetector.hpp"
 
 /* declaration for function in giflib_to_opencv.cpp to convert
