@@ -13,3 +13,29 @@ RUN apt-get -qq install build-essential libtcmalloc-minimal4 && \
 
 #4 Build docker file:  "docker build -t cppbox ."
 #5 Run docker file: "docker run -ti cppbox bash" 
+
+#6 create a Volume: docker run -v <host>:<container> -ti <image> bash
+   -v: create a volume option
+   <host directory> the directory on the host machine
+   <container directory> the directory on the docker container
+   <image> the name os image to run.
+
+
+#01_06: https://github.com/ipkn/crow download cpp file from this website.
+
+  + to run the server with port 8080 we need to add -p before running the docker.
+  + docker run -ti cppbox -p 8080:8080 -e PORT 8080 bash
+
+
+
+#8 share docker image:
+  + Log in to Docker hub
+      + docker login --usernam= xxx
+      + docker images [to see the image on our machines.] --> check images ID (88fabdb90f7e)
+  + Tag the image
+      + docker tag 88fabdb90f7e ph0123/cppbox:latest
+  + Push the image
+      + docker push ph0123/cppbox
+  + Verify the push: check it on hub.docker.com
+
+
