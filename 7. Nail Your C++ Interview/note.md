@@ -23,7 +23,7 @@
     * Difference between C and C++.
         * C++ is derived from C
         * Expect to discuss some differences between the two
-        * This knowledge is helpful for understanding structure <img src="preparing techinical skills sample.PNG" alt="preparing techinical skills sample" style="height: 300px; width:500px;"/>
+        * This knowledge is helpful for understanding structure<img src="preparing techinical skills sample.PNG" alt="preparing techinical skills sample" style="height: 300px; width:500px;"/>
 
     * What is OOP?
     * Polymorphism in C++
