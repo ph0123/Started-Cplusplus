@@ -24,8 +24,7 @@
         * C++ is derived from C
         * Expect to discuss some differences between the two
         * This knowledge is helpful for understanding structure
-<img src="Difference between C and C++.PNG" alt="Difference between C and C++" style="height: 300px; width:500px;"/>  
-
+<img src="Difference between C and C++.PNG" alt="Difference between C and C++" style="height: 250px; width:500px;"/>  
 
     * What is OOP?
     * Polymorphism in C++
@@ -33,6 +32,14 @@
     * Encapsulation in C++
     * Abstraction in C++
 ## 3. C++ Programming Question
+    * String in C++
+    * Arrays in C++
+    * Vectors in C++
 ## 4. Advanced C++ programming Topics
+    * Linked lists in C++
+    * Stacks in C++
+    * Queues in C++
 ## 5. C++ Classes
-## 5. C++ Classes
+    * Classes in C++
+    * Access modifiers in C++
+    * Virtual functions in C++
