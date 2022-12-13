@@ -12,5 +12,5 @@
         * Code Questions: commenting is not necessary. You can ask when doing it.
     * Technical Questions.
         * Preparing: prepare the best as you can. Strengths and Weaknesses
-            <img src="preparing techinical skills sample.PNG" alt="preparing techinical skills sample" style="height: 100px; width:100px;"/>
+            <img src="preparing techinical skills sample.PNG" alt="preparing techinical skills sample" style="height: 300px; width:300px;"/>
 ## 2. 
