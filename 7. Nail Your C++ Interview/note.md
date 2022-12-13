@@ -1,8 +1,8 @@
-##1. Interview Basis.
+## 1. Interview Basis.
 * Check JD
 * Know the company
 
 * Types of Quesitons
     * test
 
-##2. 
+## 2. 
