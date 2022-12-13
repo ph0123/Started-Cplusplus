@@ -27,7 +27,7 @@
         
         * Preparing: prepare the best as you can. Strengths and Weaknesses
 
-            <img src="preparing techinical skills sample.PNG" alt="preparing techinical skills sample" style="height: 300px; width:500px;"/>
+<img src="preparing techinical skills sample.PNG" alt="preparing techinical skills sample" style="height: 300px; width:500px;"/>
 
     * What is OOP?
     * Polymorphism in C++
