@@ -32,7 +32,9 @@
     * Encapsulation in C++
     * Abstraction in C++
 ## 3. C++ Programming Question
-    * String in C++
+    * String in C++. Using cstring or string libraries . '\0' is end of string.
+        * Palindrome problem. TACOCAT
+        * Using for loop from beginning to middle of string.
     * Arrays in C++
     * Vectors in C++
 ## 4. Advanced C++ programming Topics
