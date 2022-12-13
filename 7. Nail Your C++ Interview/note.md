@@ -25,7 +25,9 @@
         * Expect to discuss some differences between the two
         * This knowledge is helpful for understanding structure
         
-        <img src="Difference between C and C++.PNG" alt="Difference between C and C++" style="height: 300px; width:500px;"/>  
+            <img src="Difference between C and C++.PNG" alt="Difference between C and C++" style="height: 300px; width:500px;"/>  
+
+            <img src="preparing techinical skills sample.PNG" alt="preparing techinical skills sample" style="height: 300px; width:500px;"/>
 
     * What is OOP?
     * Polymorphism in C++
