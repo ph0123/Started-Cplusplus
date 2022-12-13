@@ -9,7 +9,8 @@
     * Social media: Facebook, Tweeter, Instagram, ...
 * Types of Quesitons
     * Face to Face Questions
-        * test1
+        * Code Questions: commenting is not necessary. You can ask when doing it.
     * Technical Questions.
-        * test2
+        * Preparing: prepare the best as you can. Strengths and Weaknesses
+            <img src="preparing techinical skills sample.PNG" alt="preparing techinical skills sample" style="height: 100px; width:100px;"/>
 ## 2. 
